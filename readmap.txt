@@ -1,4 +1,5 @@
 1.Belajar Golang Dasar
 .struct
 .structMethode
-.interfac
+.interface
+.interfaceKosong

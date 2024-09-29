@@ -17,7 +17,7 @@ func (person Person) GetName() string { //
 	return person.Nama
 }
 
-// implementasi (2)
+//implementasi (2) dengan struct
 type Animall struct{
 	Nama string
 }
